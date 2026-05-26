@@ -8,6 +8,6 @@ public class TestController {
 
 	@GetMapping
 	public void get() {
-		System.out.println("hello");
+		System.out.println("hi");
 	}
 }
